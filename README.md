@@ -1,10 +1,6 @@
 # Gen Quick Start
 
-## Singularity
-
-If you have singularity, run `setup.sh` for setup and `run.sh` to start the jupyter notebook.
-
-## Original instructions with Docker
+## Instructions with Docker
 
 This repository contains Jupyter notebooks that contain tutorials on specific features and/or applications of Gen.
 The notebooks walk you through programs that use Gen.
@@ -125,4 +121,4 @@ Below is a brief documentation of the steps taken in the Dockerfile.
 
 ## Running the Notebooks
 
-Start by opening the 'Gen Quick Start.ipynb' notebook, which contains links to the other notebooks in the intended order.
+Start by opening the 'gen_workshop.ipynb' notebook, which contains links to the other notebooks in the intended order.
